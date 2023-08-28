@@ -27,7 +27,7 @@ fig_candlestick = go.Figure(data=[go.Candlestick(x=data.index,
                                                   low=data['Low'],
                                                   close=data['Close'])])
 fig_candlestick.update_layout(title=f'{ticker} Candlestick Chart')
-fig_candlestick.update_layout(width=1100, height=600)
+fig_candlestick.update_layout(width=1000, height=600)
 st.plotly_chart(fig_candlestick)
 
 # Create buttons in the sidebar for different sections
