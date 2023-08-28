@@ -1,8 +1,8 @@
 streamlit
-numpy
 pandas
+numpy
 yfinance
-plotly_express
-StockNews
-FundamentalData
-
+plotly
+plotly.graph_objects
+stocknews
+alpha_vantage
