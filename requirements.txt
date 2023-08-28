@@ -2,8 +2,7 @@ streamlit
 numpy
 pandas
 yfinance
-plotly.express
-plotly.graph_objects
+plotly_express
 StockNews
 FundamentalData
 
