@@ -3,6 +3,6 @@ pandas
 numpy
 yfinance
 plotly
-plotly.graph_objects
+plotly.express
 stocknews
 alpha_vantage
